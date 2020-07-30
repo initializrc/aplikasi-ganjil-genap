@@ -12,7 +12,7 @@ public class Main {
         int value = input.nextInt();
 
         if (value % 2 > 0){
-            System.out.println(value + " merupakan bilangan ganji");
+            System.out.println(value + " merupakan bilangan ganjil");
         }else {
             System.out.println(value + " merupakan bilangan genap");
         }
